@@ -1,7 +1,7 @@
 # Predicting-Taxi-Gratuities-in-New-York-City
 Overview 
 
-* The purpose of this project was to develop a multiple linear regression and random forest model that predicts whether or not a rider would receive a high gratuity. This project used yellow taxi trips taken in New York City in 2017. The optimized random forest model performed with 86% accuracy and 72% precision when evaluating which variables were most relevant in distinguishing between low and high tippers. The model found that the time, distance, and expense of the journey had the greatest impact on whether a tipper was generous (>20%) or not (<20%).
+* The purpose of this project was to develop a multiple linear regression and random forest model that predicts whether or not a rider would receive a high gratuity. This project used yellow taxi trips taken in New York City in 2017. The optimized random forest model performed with 86% accuracy and 72% precision when evaluating which variables were most relevant in distinguishing between low and high tippers. The model found that the time, distance, and fare amount had the greatest impact on whether a tipper was generous (>20%) or not (<20%).
 
 ## Business Understanding 
 According to salary.com the average salary for a New York Taxi Driver is around $45,000. This salary is significantly low compared to a median rent value of $6,500 per month. It is important to understand what factors encourage riders to leave tips in order to help drivers obtain a livable wage. 
