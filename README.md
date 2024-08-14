@@ -2,7 +2,7 @@
 Overview 
 
 * The purpose of this project was to develop a multiple linear regression and random forest model that predicts whether or not a rider would receive a high gratuity. This project used yellow taxi trips taken in New York City in 2017. The optimized random forest model performed with 86% accuracy and 72% precision when evaluating which variables were most relevant in distinguishing between low and high tippers. The model found that the time, distance, and fare amount had the greatest impact on whether a tipper was generous (>20%) or not (<20%).
-  
+ ![image](https://github.com/user-attachments/assets/8256aa0f-272e-41ed-97f3-342a3287905e)
 
 Link to Tableau: https://public.tableau.com/app/profile/hareg.gebre/viz/TCLNY/Sheet9
 
